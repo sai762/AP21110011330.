@@ -1,7 +1,6 @@
-#   Created by Elshad Karimov 
-#   Copyright © 2023 AppMillers. All rights reserved.
-import queue
-class Graph:
+
+import queue#import queue
+class Graph:#graph class
     def __init__(self):
         self.adjacency_list = {}
     
